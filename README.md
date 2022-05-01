@@ -21,9 +21,12 @@ Well you have come to the right place. Following are the skill set and knowledge
   * Apache Spark
   * Hadoooooooop
   * Azure Data Factory ( which I am currentlky learning)
-
+  
 Apart from this not so long list I am learning cloud based tools to increase my arsenal.
 
+And yes please check my repository https://github.com/arp-raghav/My-Python-Learning which consists of some of the Python projects I have done.
+
+Now, 
 In terms of industrial experience I have worked in Deloitte as an Analyst for just over 1 year and then I have worked for 20 weeks as a Teaching Assistant in University of Liverpool for the subject Database Development and Design Systems.
 
 
