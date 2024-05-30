@@ -27,7 +27,7 @@ Apart from this not so long list I am learning cloud based tools to increase my 
 And yes please check my repository https://github.com/arp-raghav/My-Python-Learning which consists of some of the Python projects I have done.
 
 Now, 
-In terms of industrial experience I have worked in Deloitte as an Analyst for just over 1 year and then I have worked for 20 weeks as a Teaching Assistant in University of Liverpool for the subject Database Development and Design Systems.
+In terms of industrial experience I have 3+ year of professional experience with currently working in University of Liverpool as a Data & Analytics Manager . Previously I have worked with D2 Global on UK's one of the largest infrastructure project in partmership with BAM and Network Rail for 2 years, moving even further back I have worked with Deloitte as an Analyst for just over 1 year, startup as a Financial Crime Data Analyst and also for 20 weeks as a Teaching Assistant in University of Liverpool for the subject Database Development and Design Systems.
 
 
 If somehow you made it to the end . I am really really glad that you got to know me a bit.
